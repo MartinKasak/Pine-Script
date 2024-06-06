@@ -1,5 +1,5 @@
 //@version=4
-strategy(title="Fiverr Exponential Moving average cross+233EMA", shorttitle="MA cross+233EMA", calc_on_every_tick = true,overlay=true, process_orders_on_close=true, default_qty_type=strategy.percent_of_equity, default_qty_value=100)
+strategy(title="Fiverr Exponential Moving average cross", shorttitle="MA cross", calc_on_every_tick = true,overlay=true, process_orders_on_close=true, default_qty_type=strategy.percent_of_equity, default_qty_value=100)
 
 movingaverage1 =input(9, title="fast moving average")
 mma2002=ema(close, movingaverage1)
