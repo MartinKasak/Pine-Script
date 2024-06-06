@@ -1,5 +1,5 @@
-## Erinevad strategy näited Pine Scriptis nii mean reversion kui ka trend,
-loodud kasutamiseks veebilehel www.tradingview.com 
+## Erinevad strategy näited Pine Scriptis nii mean reversion kui ka trend variation
+### Loodud kasutamiseks veebilehel www.tradingview.com 
 1. Bollinger Bands
 2. Moving Average cross variations +- EMA filter
 3. Simple RSI strategy
